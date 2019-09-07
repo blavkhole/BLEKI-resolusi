@@ -7,6 +7,7 @@ RENCANA KONTEN BLEKI
  . Materi Awal
  . Framework Javascript
    * vue
+   * react
 -STRUKTUR DATA DASAR
 -VLOG
 -PYTHON
