@@ -2,8 +2,10 @@ RENCANA KONTEN BLEKI
 
 -HTML
 -CSS
+  *css3
 -JAVASCRIPT
  . Materi Awal
  . Framework Javascript
--STRUKTUR DATA DASAR
+   * angular
+   * react
 -VLOG
