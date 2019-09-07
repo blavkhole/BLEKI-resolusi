@@ -1,0 +1,8 @@
+RENCANA KONTEN BLEKI
+
+-HTML
+-CSS
+-JAVASCRIPT
+ . Materi Awal
+ . Framework Javascript
+-VLOG
