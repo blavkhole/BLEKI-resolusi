@@ -2,8 +2,11 @@ RENCANA KONTEN BLEKI
 
 -HTML
 -CSS
+  *CSS3
 -JAVASCRIPT
  . Materi Awal
  . Framework Javascript
+   * vue
 -STRUKTUR DATA DASAR
 -VLOG
+-PYTHON
